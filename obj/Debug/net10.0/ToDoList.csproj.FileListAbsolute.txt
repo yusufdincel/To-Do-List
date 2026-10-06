@@ -1,0 +1,14 @@
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\bin\Debug\net10.0\ToDoList.exe
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\bin\Debug\net10.0\ToDoList.deps.json
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\bin\Debug\net10.0\ToDoList.runtimeconfig.json
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\bin\Debug\net10.0\ToDoList.dll
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\bin\Debug\net10.0\ToDoList.pdb
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfo.cs
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.dll
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\refint\ToDoList.dll
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.pdb
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
+C:\Users\Yusuf\Documents\Kodlar\projeC#\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll
